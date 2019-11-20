@@ -26,6 +26,7 @@ class Home extends Component {
   }
 
   handleAddProduct = id => {
+    // eslint-disable-next-line react/prop-types
     const { addToCartRequest } = this.props;
 
     addToCartRequest(id);
@@ -33,6 +34,7 @@ class Home extends Component {
 
   render() {
     const { products } = this.state;
+    // eslint-disable-next-line react/prop-types
     const { amount } = this.props;
 
     return (
