@@ -20,7 +20,7 @@ Rocketshoes is a small web application to simulate a e-commerce website.
 ### Tools
 
 - VS Code
-- Reacotron
+- Reactotron
 - JSON Server to simulate an API to list products
 
 ### Features
