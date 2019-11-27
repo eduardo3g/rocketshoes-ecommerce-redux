@@ -2,6 +2,9 @@
 
 Rocketshoes is a small web application to simulate a e-commerce website.
 
+### How it looks like
+<p align="center"><img src="https://media.licdn.com/dms/image/C4E22AQHYf8ZDfqSupQ/feedshare-shrink_1280/0?e=1577923200&v=beta&t=N_j314stcbM2p2BzzN_To9SZGF8ZEZIeyfbX8oGL09U"></p>
+
 ### What I used to develop this application
 
 - ReactJS
