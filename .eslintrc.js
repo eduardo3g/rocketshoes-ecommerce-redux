@@ -6,7 +6,8 @@ module.exports = {
   extends: [
     'airbnb',
     'prettier',
-    'prettier/react'
+    'prettier/react',
+    'react-hooks'
   ],
   globals: {
     Atomics: 'readonly',
@@ -34,6 +35,8 @@ module.exports = {
     'jsx-a11y/control-has-associated-label': 'off',
     'react/state-in-constructor': 'off',
     'no-param-reassign': 'off',
-    'no-console': ["error", { allow: ["tron"] }]
+    'no-console': ["error", { allow: ["tron"] }],
+    'react-hooks/rules-of-hooks': 'error',
+    'react-hooks/exhaustive-deps': 'warn'
   },
 };
